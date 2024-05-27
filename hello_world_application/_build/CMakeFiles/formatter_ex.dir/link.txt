@@ -1,0 +1,2 @@
+/usr/bin/ar qc libformatter_ex.a CMakeFiles/formatter_ex.dir/home/timur/BaltaevTimur/workspace/lab04/formatter_ex_lib/formatter_ex.cpp.o
+/usr/bin/ranlib libformatter_ex.a

@@ -1,6 +1,3 @@
-/home/zarok/projects/tp_labs/tp_projects/lab03/formatter_ex_lib/_build/CMakeFiles/formatter_ex_lib.dir
-/home/zarok/projects/tp_labs/tp_projects/lab03/formatter_ex_lib/_build/CMakeFiles/edit_cache.dir
-/home/zarok/projects/tp_labs/tp_projects/lab03/formatter_ex_lib/_build/CMakeFiles/rebuild_cache.dir
-/home/zarok/projects/tp_labs/tp_projects/lab03/formatter_ex_lib/_build/formatter_lib/CMakeFiles/formatter_lib.dir
-/home/zarok/projects/tp_labs/tp_projects/lab03/formatter_ex_lib/_build/formatter_lib/CMakeFiles/edit_cache.dir
-/home/zarok/projects/tp_labs/tp_projects/lab03/formatter_ex_lib/_build/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/timur/BaltaevTimur/workspace/lab04/formatter_ex_lib/_build/CMakeFiles/formatter_ex.dir
+/home/timur/BaltaevTimur/workspace/lab04/formatter_ex_lib/_build/CMakeFiles/edit_cache.dir
+/home/timur/BaltaevTimur/workspace/lab04/formatter_ex_lib/_build/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,3 @@
-cmake_minimum_required(VERSION 3.22)
-
 project(formatter_ex_lib)
 
 set(SOURCE_LIB formatter_ex.cpp)
